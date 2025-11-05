@@ -47,8 +47,12 @@ Solution=lu_solve(XMatrix,BMatrix)
 print(Solution)
 ```
 ## Output:
-![Code001](CODE_page-0001.jpg) 
-![Code002](CODE_page-0002.jpg)
+<img width="1241" height="1755" alt="image" src="https://github.com/user-attachments/assets/f1e9379b-507e-4f11-8713-9e1f259f3ba7" />
+
+<img width="1241" height="1755" alt="image" src="https://github.com/user-attachments/assets/d3b199d2-3a1c-4419-8acb-7db3d49a92fe" />
+
+ 
+
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
